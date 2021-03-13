@@ -1,6 +1,5 @@
 <img src = "https://raw.githubusercontent.com/akikokakiko/akikokakiko/main/hello.png">
 
-## Profile
 I'm Akiko. I'm from Japan and have been living in Germany since 2019. My major is computer science.
 
 <!--
