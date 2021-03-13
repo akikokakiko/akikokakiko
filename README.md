@@ -1,6 +1,6 @@
 <img src = "https://raw.githubusercontent.com/akikokakiko/akikokakiko/main/hello.png">
 
-I'm Akiko. I'm from Japan and have been living in Germany since 2019. My major is computer science.
+My name is Akiko. I'm from Japan and have been living in Germany since 2019. My major is computer science.
 
 <!--
 **akikokakiko/akikokakiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
