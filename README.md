@@ -2,7 +2,7 @@
 
 My name is Akiko. I'm from Japan and have been living in Germany since 2019. My major is computer science.
 
-I made <a href = "https://kazukikoga.com">Kazuki Koga's web site</a>.
+I made <a href = "https://kazukikoga.com" taeget = "sama">Kazuki Koga's web site</a>.
 
 <!--
 **akikokakiko/akikokakiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
